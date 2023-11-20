@@ -18,7 +18,9 @@
     padding-left: 12px;
     padding-right: 12px;
 }
-
+.mb-0{
+    margin-bottom: 0;
+}
 .row {
     display: flex;
     flex-wrap: wrap;
@@ -29,7 +31,7 @@
 
 
 .bg-image {
-    background: linear-gradient(rgba(0, 0, 0, 0.57), rgba(0, 0, 0, 0.57)), url("../images/suite.png");
+    background: linear-gradient(rgba(0, 0, 0, 0.57), rgba(0, 0, 0, 0.57)), url("../images/conference.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -378,7 +380,7 @@
 }
 
 .bg-image2 {
-    background: linear-gradient(rgba(44, 73, 254, 0.80), rgba(44, 73, 254, 0.80)), url(../images/Rectangle\ 27.png);
+    background: linear-gradient(rgba(44, 73, 254, 0.80), rgba(44, 73, 254, 0.80)), url(../images/S3-img.webp);
     background-position: center center;
     background-repeat: no-repeat;
 }
